@@ -19,14 +19,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://straight_lane/meshes/straihgt_lane.dae</uri>
+            <uri>model://straight_lane/meshes/straight_lane.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://straight_lane/meshes/straihgt_lane.dae</uri>
+            <uri>model://straight_lane/meshes/straight_lane.dae</uri>
           </mesh>
         </geometry>
       </visual>
